@@ -1,0 +1,16 @@
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\obj\Debug\net5.0\Experiment.csproj.AssemblyReference.cache
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\obj\Debug\net5.0\Experiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\obj\Debug\net5.0\Experiment.AssemblyInfoInputs.cache
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\obj\Debug\net5.0\Experiment.AssemblyInfo.cs
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\obj\Debug\net5.0\Experiment.csproj.CoreCompileInputs.cache
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\bin\Debug\net5.0\Experiment.exe
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\bin\Debug\net5.0\Experiment.deps.json
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\bin\Debug\net5.0\Experiment.runtimeconfig.json
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\bin\Debug\net5.0\Experiment.runtimeconfig.dev.json
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\bin\Debug\net5.0\Experiment.dll
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\bin\Debug\net5.0\ref\Experiment.dll
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\bin\Debug\net5.0\Experiment.pdb
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\obj\Debug\net5.0\Experiment.dll
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\obj\Debug\net5.0\ref\Experiment.dll
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\obj\Debug\net5.0\Experiment.pdb
+C:\Users\FSOL_CHEM\source\repos\LearningManagementSystem\Experiment\obj\Debug\net5.0\Experiment.genruntimeconfig.cache

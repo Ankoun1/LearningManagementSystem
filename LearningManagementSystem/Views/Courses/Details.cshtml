@@ -1,0 +1,57 @@
+﻿@model Web.ViewModels.Course.InformationCourseFormModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Course</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Titel)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Titel)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Difficulty)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Difficulty)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.StartDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+        
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="GenereteStudentScore" asp-route-id="@Model.Id">Generete Score</a> |
+    <a asp-action="RegisterUser" asp-route-id="@Model.UserId,@Model.Id">Register User</a> |
+    <a asp-controller ="Users" asp-action="StudentsCourse" asp-route-id="@Model.Id">Students</a> |
+    <a asp-controller ="Users" asp-action="TeachersCourse" asp-route-id="@Model.Id">Teachers</a> |
+    <a asp-controller ="Materials" asp-action="Create" asp-route-id="@Model.Id">Create Material</a> |
+    <a asp-controller ="Moduls" asp-action="Create" asp-route-id="@Model.Id">Create Modul</a> |
+    <a asp-controller ="Tests" asp-action="Create" asp-route-id="@Model.Id">Create Test</a> |
+    <a asp-controller ="Tests" asp-action="Index" asp-route-id="@Model.Id">Create Test</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
